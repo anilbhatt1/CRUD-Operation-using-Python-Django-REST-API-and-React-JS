@@ -1,4 +1,4 @@
-# Youtube Link : https://www.youtube.com/watch?v=RvOUBQdVLnY&list=LL&index=1&ab_channel=BibhutiGhimire
+Youtube Link : https://www.youtube.com/watch?v=RvOUBQdVLnY&list=LL&index=1&ab_channel=BibhutiGhimire
 
 # Getting Started with Create React App
 
